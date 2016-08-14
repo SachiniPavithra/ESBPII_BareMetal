@@ -1,6 +1,8 @@
 # ESBPII_BareMetal_Exercise
 
-# Install EXSI Server
+## Prerequisites
+
+## Install EXSI Server
 
 Step 1 – Power on your Virtual / Physical Machine, and boot from the ESXi 5.5 ISO Image.
 
