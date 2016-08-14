@@ -30,3 +30,17 @@ Step 7 – Press F11 to confirm and start the installation.
 
 ![7](https://cloud.githubusercontent.com/assets/20767123/17648989/b9f68a76-6245-11e6-9f27-487477b361dc.jpg)
 
+Step 8 – Installation will take about 2-5 minutes to complete.
+
+![8](https://cloud.githubusercontent.com/assets/20767123/17649003/e9ceaf3a-6245-11e6-9452-ee439810736b.PNG)
+
+![9](https://cloud.githubusercontent.com/assets/20767123/17649005/fbdec368-6245-11e6-9575-6aa11eb96b23.PNG)
+
+Step 9 – Press Enter to reboot once the installation has completed successfully.
+
+![10](https://cloud.githubusercontent.com/assets/20767123/17649008/1dffa930-6246-11e6-967d-037df5882ecd.PNG)
+
+Step 10 – Wait for reboot to complete.
+
+![11](https://cloud.githubusercontent.com/assets/20767123/17649007/12f675be-6246-11e6-8e88-e496dc731850.PNG)
+
